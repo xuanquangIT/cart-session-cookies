@@ -1,0 +1,8 @@
+murach\business\Product.class
+murach\cart\ProductsServlet.class
+com\mycompany\cart\JakartaRestConfiguration.class
+com\mycompany\cart\resources\JakartaEE10Resource.class
+murach\business\Cart.class
+murach\cart\CartServlet.class
+murach\business\LineItem.class
+murach\data\ProductIO.class
